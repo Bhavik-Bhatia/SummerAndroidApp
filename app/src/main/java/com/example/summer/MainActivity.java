@@ -55,7 +55,7 @@ import java.util.List;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity implements LocationListener {
-    //All Variables
+    //All Variables are delecared here
     ImageView searchIcon, TempImage;
     TextView citynametf, Temperaturetf, Conditiontf, ForecastTitle;
     TextInputLayout city_name_input;
